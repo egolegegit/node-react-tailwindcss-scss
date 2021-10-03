@@ -34,6 +34,14 @@ NPM script
 
 npm run dev
 
+>Development mode server
+
+npm run server
+
 >Development mode client
 
 npm run start
+
+>Linting formatting
+
+npm run lint
