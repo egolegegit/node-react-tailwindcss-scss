@@ -6,6 +6,7 @@ Feature
 > * [Node.js](https://nodejs.org/en/) / [Express](https://expressjs.com/ru/)
 > * [React](https://ru.reactjs.org/)
 > * [Tailwindcss](https://tailwindcss.com/) - utility-first CSS framework 
+> * [MongoDB](https://www.mongodb.com/cloud) 
 > * Eslint, Prettier and VSCode configured (.vscode for tailwind intellisense)
 
 Installation
